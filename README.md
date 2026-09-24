@@ -6,7 +6,8 @@
 ---
 
 ## 1. Evidências Práticas
-*Nota para o professor: As capturas de ecrã das execuções estão anexadas no repositório.*
+<img width="1115" height="964" alt="Captura de tela 2026-09-24 194132" src="https://github.com/user-attachments/assets/570d2d92-b99e-4162-86c4-b1a14901621f" />
+
 
 ---
 
